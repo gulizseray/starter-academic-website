@@ -46,15 +46,15 @@ social:
   link: https://twitter.com/gulizseray
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=xEmXCR0AAAAJ&hl
+  link: https://scholar.google.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/gulizseray
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   # link: static/files/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#    link: static/files/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -69,5 +69,5 @@ user_groups:
 - Visitors
 ---
 
-Güliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. Her research interests include mobile security and mobile computing.
+Güliz Seray Tuncay lolo is a security researcher at Android Security and Privacy (ASAP) at Google. Her research interests include mobile security and mobile computing.
 

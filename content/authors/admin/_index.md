@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Guliz Seray Tuncay
+title: Güliz Seray Tuncay
 
 # Is this the primary user of the site?
 superuser: true
@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Guliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. His research interests include mobile security and mobile computing.
+Güliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. His research interests include mobile security and mobile computing.
 

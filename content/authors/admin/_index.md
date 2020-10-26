@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Guliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Guliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. His research interests include mobile security and mobile computing.
 

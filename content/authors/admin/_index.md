@@ -40,7 +40,7 @@ social:
 - icon: envelope
   icon_pack: fas
   #link: '/#contact'  # For a direct email link, use "mailto:gulizseray@google.com".
-  mailto:gulizseray@google.com 
+  link: mailto:gulizseray@google.com 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/gulizseray

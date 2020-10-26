@@ -22,13 +22,13 @@ interests:
 
 education:
   courses:
-  - course: PhD in Computer Science
+  - course: Ph.D. in Computer Science
     institution: University of Illinois at Urbana-Champaign
     year: 2019
-  - course: MEng in Computer Engineering
+  - course: M.Sc. in Computer Engineering
     institution: University of Florida
     year: 2013
-  - course: BSc in Computer Engineering
+  - course: B.Sc. in Computer Engineering
     institution: Middle East Technical University
     year: 2010
 

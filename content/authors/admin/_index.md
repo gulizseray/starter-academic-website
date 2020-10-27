@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign in 2019 <a href="https://www.w3schools.com">Visit W3Schools</a> . I am currently a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing.
+I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, where I was advised by <a href="https://cgunter.cs.illinois.edu/">Carl Gunter</a>. I am currently a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing.

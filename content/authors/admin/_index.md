@@ -14,7 +14,7 @@ organizations:
   url: "https://research.google/people/106775/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile security and mobile computing.
+bio: Android Security Princess
 
 interests:
 - Mobile Security
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-I am a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing. HODODODO
+I am a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing.

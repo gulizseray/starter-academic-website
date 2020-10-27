@@ -1,5 +1,5 @@
 ---
-title: "See No Evil: Phishing for Permissions with False Transparency"
+title: "Resolving the Predicament of Android Custom Permissions"
 authors:
 - admin
 - Jinyu Qian

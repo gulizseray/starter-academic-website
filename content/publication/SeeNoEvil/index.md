@@ -1,5 +1,6 @@
 ---
-title: "See No Evil: Phishing for Permissions with False Transparency"
+title: "See No Evil: Phishing for Permissions with False Transparency
+USENIX Security 2020"
 authors:
 - admin
 - Jinyu Qian
@@ -42,7 +43,7 @@ url_slides: 'https://www.usenix.org/system/files/sec20_slides_tuncay.pdf'
 url_video: 'https://www.youtube.com/watch?v=dJmAISdqG5Q&feature=emb_title'
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ""

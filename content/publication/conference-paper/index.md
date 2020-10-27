@@ -37,9 +37,9 @@ url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: ''
+url_slides: 'https://www.usenix.org/system/files/sec20_slides_tuncay.pdf'
 url_source: '#'
-url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=dJmAISdqG5Q&feature=emb_title'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 

@@ -68,5 +68,5 @@ user_groups:
 - Visitors
 ---
 
-Güliz Seray Tuncay is a security researcher at Android Security and Privacy (ASAP) at Google. Her research interests include mobile security and mobile computing.
+I am a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing.
 

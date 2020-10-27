@@ -287,6 +287,6 @@ plugins_js  = []
   ai = true  # Academicons icon pack https://jpswalsh.github.io/academicons/
 
 # Link the title of the publication to the publication
-  links_title = false
+  link_title = false
   # # Link the authors of the publication to the list of publication made by this author
   # links_authors = false

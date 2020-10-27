@@ -1,11 +1,12 @@
 ---
-title: "See No Evil: Phishing for Permissions with False Transparencyww"
+title: "See No Evil: Phishing for Permissions with False Transparency"
 authors:
 - admin
 - Jinyu Qian
 - Carl A. Gunter
 date: ""
 doi: ""
+award: Best Paper Award
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2020-01-01T00:00:00Z"

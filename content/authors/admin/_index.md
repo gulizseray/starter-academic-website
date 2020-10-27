@@ -28,7 +28,7 @@ education:
   - course: M.Sc. in Computer Engineering
     institution: University of Florida
     year: 2013
-  - course: B.Sc. in Computer Engineering
+  - course: B.Sc. in Computer Engineering (Ranked first)
     institution: Middle East Technical University
     year: 2010
 

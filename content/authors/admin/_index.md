@@ -49,6 +49,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/gulizseray
+- icon: linkedin
+  icon_pack: linkedin-in
+  link: https://www.linkedin.com/in/g%C3%BCliz-seray-tuncay-952a1b9/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,4 +72,3 @@ user_groups:
 ---
 
 I am a security researcher at Android Security and Privacy (ASAP) at Google. My research interests include mobile security and mobile computing.
-

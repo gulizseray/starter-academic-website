@@ -14,7 +14,7 @@ organizations:
   url: "https://research.google/people/106775/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include mobile security and mobile computing.
+ bio: Android Security Princess at Google
 
 interests:
 - Mobile Security

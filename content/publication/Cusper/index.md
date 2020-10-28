@@ -1,5 +1,5 @@
 ---
-title: "Resolving the predicament of Android Custom Permissions. \n Distinguished Paper Award"
+title: "Resolving the Predicament of Android Custom Permissions. \n Distinguished Paper Award"
 authors:
 - admin
 - Soteris Demetriou
@@ -64,5 +64,3 @@ url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-- Distinguished Paper Award

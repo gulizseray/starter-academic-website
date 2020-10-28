@@ -16,9 +16,9 @@ summary: Topic preview talk on mobile security at MobiCom 2020.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2020-09-01T13:00:00Z"
-date_end: "2020-09-01T15:00:00Z"
-all_day: false
+# date: "2020-09-01T13:00:00Z"
+# date_end: "2020-09-01T15:00:00Z"
+# all_day: false
 
 # Schedule page publish date (NOT talk date).
 publishDate: "2020-09-01T00:00:00Z"

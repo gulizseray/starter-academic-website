@@ -1,14 +1,17 @@
 ---
-title: "Draco: A System for Uniform and Fine-grained Access Control for Web Code on Android"
+title: "Smartphone Security Behavioral Scale: A New Psychometric Measurement for Smartphone Security"
 authors:
-- admin
+- Hsiao-Ying Huang
 - Soteris Demetriou
+- Rini Banerjee
+- admin
 - Carl A. Gunter
+- Masooda Bashir
 date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2016-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -17,8 +20,8 @@ publishDate: "2016-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Computer and Communications Security*
-publication_short: In CCS 2016*
+publication: In *Networked and Distributed System Security Symposium*
+publication_short: In *NDSS 2018*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 

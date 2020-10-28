@@ -1,5 +1,5 @@
 ---
-title: "Resolving the predicament of Android Custom Permissions. Distinguished Paper Award"
+title: "Resolving the predicament of Android Custom Permissions. <br> Distinguished Paper Award"
 authors:
 - admin
 - Soteris Demetriou

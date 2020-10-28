@@ -32,12 +32,12 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
+url_pdf: files/mcs017.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
+# url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
 # url_source: '#'
 # url_video: ''
 

@@ -68,6 +68,6 @@ user_groups:
 - Visitors
 ---
 
-I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, where I was a part of <a href="https://seclab.illinois.edu/">Illinois Security Lab</a> and advised by <a href="https://cgunter.cs.illinois.edu/">Carl Gunter</a>.
+I received my Ph.D. in Computer Science from the University of Illinois at Urbana-Champaign, where I was a part of the <a href="https://seclab.illinois.edu/">Illinois Security Lab</a> and advised by <a href="https://cgunter.cs.illinois.edu/">Carl Gunter</a>.
 
 I have been a security researcher at Android Security and Privacy (ASAP) at Google since 2019. My research interests include mobile security and mobile computing.

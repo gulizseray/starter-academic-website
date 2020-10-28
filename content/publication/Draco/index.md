@@ -39,7 +39,7 @@ url_pdf: files/draco_ccs2016_tuncay.pdf
 # url_project: ''
 # url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
 # url_source: '#'
- url_video: 'https://www.youtube.com/watch?v=gnnPaYCnS0o&t=7s'
+url_video: 'https://www.youtube.com/watch?v=gnnPaYCnS0o&t=7s'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.

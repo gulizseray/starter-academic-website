@@ -32,7 +32,7 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: files/p25-tuncay.pdf
+url_pdf: files/ACM_MobiCom_2012_Poster_Autonomous_and_D.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'

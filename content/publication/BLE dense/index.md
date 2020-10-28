@@ -1,9 +1,10 @@
 ---
 title: "Bluetooth Low Energy in Dense IoT Environments"
 authors:
-- Albert F Harris III
+- Albert F. Harris III
 - Vansh Khanna
 - admin
+- Roy Wants
 - Robin Kravets
 date: ""
 doi: ""
@@ -33,12 +34,12 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
+url_pdf: files/BLEDenseIoT.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
+# url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
 # url_source: '#'
 # url_video: ''
 

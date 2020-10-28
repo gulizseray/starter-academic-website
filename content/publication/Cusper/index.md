@@ -1,10 +1,11 @@
 ---
-title: "Resolving the Predicament of Android Custom Permissions"
+title: "Resolving the predicament of Android Custom Permissions. Distinguished Paper Award"
 authors:
 - admin
-- Jinyu Qian
+- Soteris Demetriou
+- Karan Ganju
 - Carl A. Gunter
-date: "2018-07-01T00:00:00Z"
+date: ""
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,8 +18,8 @@ publishDate: "2018-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *USENIX Security Symposium*
-publication_short: In *USENIX Security*
+publication: In *Networked and Distributed System Security Symposium*
+publication_short: In *NDSS 2018*
 
 # abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
 
@@ -32,17 +33,17 @@ featured: true
 links:
 #- name: Custom Link
 #  url: http://example.org
-url_pdf: https://www.usenix.org/system/files/sec20-tuncay.pdf
+url_pdf: https://www.ndss-symposium.org/wp-content/uploads/2018/02/ndss2018_08-4_Tuncay_paper.pdf
 # url_code: '#'
 # url_dataset: '#'
 # url_poster: '#'
 # url_project: ''
-url_slides: 'https://www.usenix.org/system/files/sec20_slides_tuncay.pdf'
+url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_08-4_Tuncay_Slides.pdf'
 # url_source: '#'
-url_video: 'https://www.youtube.com/watch?v=dJmAISdqG5Q&feature=emb_title'
+# url_video: ''
 
 # Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+# To use, add an image named `featured.jpg/png` to your page's folder.
 # image:
 #  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
 #  focal_point: ""
@@ -63,5 +64,3 @@ url_video: 'https://www.youtube.com/watch?v=dJmAISdqG5Q&feature=emb_title'
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-
-USENIX Security 2020

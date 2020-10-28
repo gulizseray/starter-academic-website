@@ -4,15 +4,15 @@ event: Mobile Computing and Networking (MobiCom) 2020
 event_url: https://sigmobile.org/mobicom/2020/
 
 location: London, The United Kingdom
-<!-- address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States -->
+ # address:
+  # street: 450 Serra Mall
+  # city: Stanford
+  # region: CA
+  # postcode: '94305'
+  # country: United States
 
 summary: Topic preview talk on mobile security.
-<!-- abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam." -->
+# abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.

@@ -64,3 +64,5 @@ url_slides: 'https://www.ndss-symposium.org/wp-content/uploads/2018/03/ndss2018_
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+
+- Distinguished Paper Award
